@@ -16,10 +16,12 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 	</style>
+    <p><strong>Em ko giỏi trong việc viết văn lắm nên em sẽ thay vào đó liệt kê toàn bộ thông tin của em ra ạ </strong><p>
     <p><strong>Họ và Tên: Đàm Thành Trung</strong></p>
     <p><strong>Tuổi: 17</strong></p>
     <p><strong>Nghề nghiệp: học sinh?</strong></p>
     <p><strong>Trường: THPT khoa học tự nhiên</strong></p>
+    <p><strong>Gia đình: Gồm bố, mẹ, chị và em</strong></p>
     <ul><em>Những thứ quan tâm, yêu thích:</em>
         <li><em><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Game</a></em></li>
         <li><em><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Vẫn là Game thêm số 2</a></em></li>
