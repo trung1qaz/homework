@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My webpage</title>
+</head>
+<body>
+
+    <h1>Giới thiệu bản thân</h1>
+    <img src="https://scontent.fhan2-4.fna.fbcdn.net/v/t1.6435-9/122531979_669591570399215_1013704709369902082_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=kwg0l6vURYkAX_LzNiE&_nc_ht=scontent.fhan2-4.fna&oh=9a4454ceabf3145a42ac06f78f3bb95f&oe=61529189"/>
+    <style type="text/css">
+	img {
+    height:200px;
+}
+body {
+    background:grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+	</style>
+    <p><strong>Họ và Tên: </strong><em>Đàm Thành Trung</em></p>
+    <p><strong>Tuổi: </strong>17</p>
+    <p><strong>Nghề nghiệp: </strong>học sinh?</p>
+    <p><strong>Trường: </strong>THPT khoa học tự nhiên</p>
+    <ul><em>Những thứ quan tâm, yêu thích:</em>
+        <li><em><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Game</a></em></li>
+        <li><em><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Vẫn là Game thêm số 2</a></em></li>
+        <li><em><a href="https://www.youtube.com/watch?v=JB3INq8n9is">Anime?</a></em></li>
+    </ul>
+
+</body>
+</html>
