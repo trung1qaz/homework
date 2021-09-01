@@ -16,10 +16,10 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 	</style>
-    <p><strong>Họ và Tên: </strong><em>Đàm Thành Trung</em></p>
-    <p><strong>Tuổi: </strong>17</p>
-    <p><strong>Nghề nghiệp: </strong>học sinh?</p>
-    <p><strong>Trường: </strong>THPT khoa học tự nhiên</p>
+    <p><strong>Họ và Tên: Đàm Thành Trung</strong></p>
+    <p><strong>Tuổi: 17</strong></p>
+    <p><strong>Nghề nghiệp: học sinh?</strong></p>
+    <p><strong>Trường: THPT khoa học tự nhiên</strong></p>
     <ul><em>Những thứ quan tâm, yêu thích:</em>
         <li><em><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Game</a></em></li>
         <li><em><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Vẫn là Game thêm số 2</a></em></li>
